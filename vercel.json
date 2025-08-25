@@ -41,10 +41,5 @@
         }
       ]
     }
-  ],
-  "functions": {
-    "dist/**/*.js": {
-      "maxDuration": 30
-    }
-  }
+  ]
 }
